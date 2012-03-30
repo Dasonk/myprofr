@@ -1,0 +1,11 @@
+Package: myprofr
+Type: Package
+Title: Cleans and extracts information from files produced by Rprof
+Version: 1.0
+Date: 2012-03-30
+Author: Dason Kurkiewicz
+Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
+Description: Cleans and extracts information from files produced by Rprof
+License: MIT
+Collate:
+    'myprofr.R'

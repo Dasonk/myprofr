@@ -1,0 +1,2 @@
+export(cleanRprof)
+S3method(plot,MyRprof)
