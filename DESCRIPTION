@@ -6,6 +6,11 @@ Date: 2012-03-30
 Author: Dason Kurkiewicz
 Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
 Description: Cleans and extracts information from files produced by Rprof
+Suggests:
+    productplots
 License: MIT
 Collate:
-    'myprofr.R'
+    'cleanRprof.R'
+    'helper-functions.R'
+    'myprofr-package.R'
+    'plot_MyRprof.R'

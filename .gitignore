@@ -1,1 +1,5 @@
 *.tar.gz
+.Rproj.user
+.gitignore
+.Rbuildignore
+*.Rproj
